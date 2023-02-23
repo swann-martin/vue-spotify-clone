@@ -16,11 +16,11 @@ let icon = ref(null);
 let textIsHover = ref(false);
 
 watchEffect(() => {
-  if (route.path == pageUrl.value) {
+  if (route.path === pageUrl.value) {
     icon.value = iconString.value + '-active';
     textIsHover.value = true;
   } else {
-    icon.value = iconString + '-inactive';
+    icon.value = iconString.value + '-inactive';
     textIsHover.value = false;
   }
 });
