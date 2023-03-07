@@ -1,10 +1,6 @@
 # spotify-clone
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This project was made following a [youtube tutorial](https://www.youtube.com/watch?v=ZzuqwqP1wAQ) from the channel [John Weeks Dev](https://www.youtube.com/@johnweeksdev). The aim was to make a spotify clone using Vue 3, pinia, tailwind and assets musics. I just wanted to learn more about Vue.
 
 ## Customize configuration
 
@@ -27,3 +23,5 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+s
